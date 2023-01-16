@@ -1,0 +1,8 @@
+01Israel
+03Malta
+04Spain
+06Italia
+07Libya
+08Eqypt
+09Morocco
+12France
